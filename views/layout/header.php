@@ -17,7 +17,7 @@
             </div>
         </header>
         <nav>
-            <ul>
+            <>
                 <li>clientes</li>
                 <li>pedidos</li>
                 <li>usuarios</li>
@@ -25,5 +25,6 @@
                 <li>productos</li>
                 <li>inventario</li>
                 <li>proveedores</li>
+                <li><a href="usuario/cerrar_sesion">Cerrar sesion</a></li>
             </ul>
         </nav>
